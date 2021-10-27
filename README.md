@@ -33,27 +33,29 @@ Programmer nicolas = new()
 	<img title="CSS" alt="CSS" src="https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor">  
 </details>
 
-<details open>
+<details>
 	<summary><b>Frameworks:</b></summary>
 	<br>
-	<img title="Git" alt="Git" src="https://icongr.am/devicon/git-original.svg?size=50&color=currentColor"> 
-	<img title="dotNET" alt="dotNET" src="https://icongr.am/devicon/dot-net-original.svg?size=50&color=currentColor"> 
+	<img title="Git" alt="Git" src="https://icongr.am/simple/git.svg?size=50&color=currentColor&colored=true"> 
+	<img title="dotNet" alt="dotNet" src="https://icongr.am/devicon/dot-net-original.svg?size=50&color=currentColor"> 
 	<img title="Angular" alt="Angular" src="https://icongr.am/devicon/angularjs-original.svg?size=50&color=currentColor"> 
 	<img title="npm" alt="npm" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=50&color=currentColor"> 
-	<img title="Bootstrap" alt="Bootstrap" src="https://icongr.am/devicon/bootstrap-plain.svg?size=50&color=currentColor"> 
+	<img title="Bootstrap" alt="Bootstrap" src="https://icongr.am/simple/bootstrap.svg?size=50&color=currentColor&colored=true"> 
 </details>
 
-<details open>
+<details>
 	<summary><b>Banco de Dados:</b></summary>
 	<br>
 	<img title="MySQL" alt="MySQL" src="https://icongr.am/devicon/mysql-original.svg?size=50&color=currentColor"> 
 	<img title="Oracle" alt="Oracle" src="https://icongr.am/devicon/oracle-original.svg?size=50&color=currentColor"> 
 </details>
 
-<details open>
+<details>
 	<summary><b>IDE:</b></summary>
 	<br>
-	<img title="Bootstrap" alt="Bootstrap" src="https://icongr.am/devicon/visualstudio-plain.svg?size=50&color=currentColor"> 
+	<img title="VisualStudio" alt="VisualStudio" src="https://icongr.am/devicon/visualstudio-plain.svg?size=50&color=currentColor"> 
+	<img title="VisualStudioCode" alt="VisualStudioCode" src="https://icongr.am/simple/visualstudiocode.svg?size=50&color=currentColor&colored=true"> 
+	<img title="VisualStudioCode" alt="VisualStudioCode" src="https://icongr.am/simple/apachenetbeanside.svg?size=50&color=currentColor&colored=true"> 
 </details>
 <br>
 
