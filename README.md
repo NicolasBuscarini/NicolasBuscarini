@@ -57,7 +57,6 @@ Programmer nicolas = new()
 	<img title="VisualStudioCode" alt="VisualStudioCode" src="https://icongr.am/simple/visualstudiocode.svg?size=50&color=currentColor&colored=true"> 
 	<img title="ApacheNetBeans" alt="ApacheNetBeans" src="https://icongr.am/simple/apachenetbeanside.svg?size=50&color=currentColor&colored=true"> 
 </details>
-<br>
 
 ## **GitHub Estatística**
 <p align="center">
