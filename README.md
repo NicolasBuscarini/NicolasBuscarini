@@ -1,6 +1,6 @@
 # *Hello World!* <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-Desenvolvedor Junior na 7COMm.<br> 
+Desenvolvedor Junior na [7COMm](https://www.7comm.com.br).<br> 
 Estudante da [Universidade Paulista | UNIP](https://www.unip.br/) cursando 5º semestre de bacharelado em Ciências da Computação.<br>
 Gosto de aprender e resolver problemas de lógica.
 
