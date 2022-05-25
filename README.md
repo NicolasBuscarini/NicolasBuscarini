@@ -29,8 +29,6 @@ Programmer programmer = new()
 	<img title="Java" alt="Java" src="https://icongr.am/devicon/java-original.svg?size=50&color=currentColor">  
 	<img title="Python" alt="Python" src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor">  
 	<img title="JavaScript" alt="JavaScript" src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor">  
-	<img title="HTML" alt="HTML" src="https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor">  
-	<img title="CSS" alt="CSS" src="https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor">  
 </details>
 
 <details>
@@ -39,6 +37,7 @@ Programmer programmer = new()
 	<img title="Git" alt="Git" src="https://icongr.am/simple/git.svg?size=50&color=currentColor&colored=true"> 
 	<img title="dotNet" alt="dotNet" src="https://icongr.am/devicon/dot-net-original.svg?size=50&color=currentColor"> 
 	<img title="Angular" alt="Angular" src="https://icongr.am/devicon/angularjs-original.svg?size=50&color=currentColor"> 
+	<img title="Docker" alt="Docker" src="https://icongr.am/devicon/docker-original.svg?size=50&color=currentColor">  
 	<img title="npm" alt="npm" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=50&color=currentColor"> 
 	<img title="Bootstrap" alt="Bootstrap" src="https://icongr.am/simple/bootstrap.svg?size=50&color=currentColor&colored=true"> 
 </details>
@@ -48,14 +47,6 @@ Programmer programmer = new()
 	<br>
 	<img title="MySQL" alt="MySQL" src="https://icongr.am/devicon/mysql-original.svg?size=50&color=currentColor"> 
 	<img title="Oracle" alt="Oracle" src="https://icongr.am/devicon/oracle-original.svg?size=50&color=currentColor"> 
-</details>
-
-<details>
-	<summary><b>IDE:</b></summary>
-	<br>
-	<img title="VisualStudio" alt="VisualStudio" src="https://icongr.am/devicon/visualstudio-plain.svg?size=50&color=currentColor"> 
-	<img title="VisualStudioCode" alt="VisualStudioCode" src="https://icongr.am/simple/visualstudiocode.svg?size=50&color=currentColor&colored=true"> 
-	<img title="ApacheNetBeans" alt="ApacheNetBeans" src="https://icongr.am/simple/apachenetbeanside.svg?size=50&color=currentColor&colored=true"> 
 </details>
 
 ## **GitHub Estatística**
