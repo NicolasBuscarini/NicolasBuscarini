@@ -1,13 +1,13 @@
 # *Hello World!* <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 Desenvolvedor Junior na [7COMm](https://www.7comm.com.br).<br> 
-Estudante da [Universidade Paulista | UNIP](https://www.unip.br/) cursando 7º semestre de bacharelado em Ciências da Computação.<br>
+Estudante da [Universidade Paulista | UNIP](https://www.unip.br/) cursando 8º semestre de bacharelado em Ciências da Computação.<br>
 Gosto de aprender e resolver problemas de lógica.
 
 ## <img width="25" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
 ```kotlin
-Programmer programmer = new()
+var programmer = Programmer new()
 {
 	Name = "Nícolas Paiuca Buscarini",
 	Locale = "São Paulo, SP",
