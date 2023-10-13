@@ -54,9 +54,12 @@ var programmer = Programmer new()
 <p align="center">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBuscarini&theme=github_dark&hide_langs_below=1"/>
 </p>
-<p align="center">
+ 
+<!-- <p align="center">
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=NicolasBuscarini&show_icons=true&theme=github_dark&line_height=27" alt="Nicolas github stats"/></p>
-<br>
+<br> -->
+
+
 
 <details>
 	<summary><b>Rede Sociais!</b></summary>
