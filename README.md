@@ -1,8 +1,7 @@
 # *Hello World!* <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-Desenvolvedor Junior na [7COMm](https://www.7comm.com.br).<br> 
-Estudante da [Universidade Paulista | UNIP](https://www.unip.br/) cursando 8º semestre de bacharelado em Ciências da Computação.<br>
-Gosto de aprender e resolver problemas de lógica.
+Desenvolvedor Fullstack na [7COMm](https://www.7comm.com.br).<br> 
+Graduado em Ciências da Computação e eterno estudante de programação.<br>
 
 ## <img width="25" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
@@ -11,7 +10,7 @@ var programmer = Programmer new()
 {
 	Name = "Nícolas Paiuca Buscarini",
 	Locale = "São Paulo, SP",
-	Age = 22,
+	Age = 23,
 	
 	Languages = { "C#", "Java", "TypeScript", "Python" }
 };
